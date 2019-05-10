@@ -1,0 +1,3 @@
+# Bruteforce
+
+Bruteforce searching alghoritm
