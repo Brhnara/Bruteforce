@@ -10,13 +10,11 @@ import java.util.Scanner;
 
 public class Brute {
 
-	/*Student Name: Burhan Ara and Eyyüp Güzel
-	Student ID: 1614084 1616643
+	/*Student Name: Burhan Ara and EyyÃ¼p GÃ¼zel
+	
 	Operating System: {Windows[Version 10]}
 	Compile Status: {Compiling} 
 	Execution Status: {Partially Working}
-	Bonus Part: {Not implemented} 
-	Comments: hocam kodumuz herhangi bir hata vermemesine raðmen horspoolMatching metoduna girmiyor sorunu maalesef bulamadýk .
 	*/
 
 
